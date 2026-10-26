@@ -1,6 +1,6 @@
 import math
 
-REPEAT = 202
+REPEAT = int(input("Enter repeat count: "))
 
 
 def is_inside_heart(x, y):
