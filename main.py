@@ -46,7 +46,7 @@ def main():
     for _ in range(REPEAT):
         print(draw_shape(is_inside_heart, "*"))
         print(draw_shape(is_inside_star, "#"))
-        print("Latifa is the best")
+        print("Latifa is amazing!")
 
 
 if __name__ == "__main__":
