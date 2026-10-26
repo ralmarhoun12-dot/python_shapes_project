@@ -1,6 +1,6 @@
 import math
 
-REPEAT = int(input("Enter repeat count: "))
+REPEAT = 202
 
 
 def is_inside_heart(x, y):
@@ -46,8 +46,9 @@ def main():
     for _ in range(REPEAT):
         print(draw_shape(is_inside_heart, "*"))
         print(draw_shape(is_inside_star, "#"))
-        print("Latifa is amazing!")
+        print("Latifa is the best")
 
 
 if __name__ == "__main__":
+    main()
     main()
