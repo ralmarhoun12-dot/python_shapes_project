@@ -51,4 +51,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+      feature/1-fix-main-call
     main()
+      main
